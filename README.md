@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/08/24/73/28/1000_F_824732858_rlzizS0NVgYstHz1iBdf9xQhgIx2QOB3.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/08/24/73/28/1000_F_824732858_rlzizS0NVgYstHz1iBdf9xQhgIx2QOB3.jpg)
 <h1 align="center">Hi 👋, I'm Andres Fritsche</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNvaWU2eDZ3Y2VsbHB0a2UxaGEzOHBnbXRlMXY1aGFnYnEwbHE0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp")
