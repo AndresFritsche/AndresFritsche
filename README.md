@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresf029&label=Profile%20views&color=0e75b6&style=flat" alt="andresf029" /> </p>
 
-- 🌱 I’m currently learning **React / Next.js / Tailwind**
+- 🌱 I’m currently learning **.Net / React**
 
 - 👯 I’m looking to collaborate on **Web Development Projects / 3D Web Experiences**
 
